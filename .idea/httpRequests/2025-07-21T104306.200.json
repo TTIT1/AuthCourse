@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "firstName": "Truong",
+    "lastName": "Van",
+    "email": "truong@example.com",
+    "age": 30,
+    "courses": [
+      {
+        "id": 2,
+        "title": "hubt",
+        "description": "hubt",
+        "authorId": null,
+        "authorDTOS": null
+      },
+      {
+        "id": 53,
+        "title": "1231",
+        "description": "1",
+        "authorId": null,
+        "authorDTOS": null
+      },
+      {
+        "id": 102,
+        "title": "truong",
+        "description": "huts",
+        "authorId": null,
+        "authorDTOS": null
+      }
+    ]
+  }
+]

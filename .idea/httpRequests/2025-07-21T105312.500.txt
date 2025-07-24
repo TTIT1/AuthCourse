@@ -1,0 +1,1 @@
+could not execute statement [Duplicate entry '' for key 'course.UK1chg67bmvdhtrilebo2kitma3'] [update course set d_description=?,t_title=? where id=?]; SQL [update course set d_description=?,t_title=? where id=?]; constraint [course.UK1chg67bmvdhtrilebo2kitma3]

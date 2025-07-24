@@ -1,0 +1,59 @@
+quan hệ nhiều nhiều
+@Entity
+public class Course {
+    @Id
+    @GeneratedValue
+    private Long id;
+
+    private String title;
+
+    @ManyToMany
+    @JoinTable(
+        name = "student_course",
+        joinColumns = @JoinColumn(name = "course_id"),
+        inverseJoinColumns = @JoinColumn(name = "student_id")
+    )
+    private List<Student> students;
+}
+
+@Entity
+public class Student {
+    @Id
+    @GeneratedValue
+    private Long id;
+
+    private String name;
+
+    @ManyToMany(mappedBy = "students")
+    private List<Course> courses;
+}
+✅ Mẹo nhớ:
+📌 joinColumns: khóa ngoại đến bảng hiện tại
+📌 inverseJoinColumns: khóa ngoại đến bảng bên kia
+📌 Quan hệ 1-Nhiều là gì?
+@Entity
+public class Department {
+    @Id
+    @GeneratedValue
+    private Long id;
+
+    private String name;
+
+    @OneToMany(mappedBy = "department")
+    private List<Student> students;
+}
+@Entity
+public class Student {
+    @Id
+    @GeneratedValue
+    private Long id;
+
+    private String name;
+
+    @ManyToOne
+    @JoinColumn(name = "department_id")
+    private Department department;
+}
+📌 Mẹo nhớ:
+📌 OneToMany bên 1 → mappedBy
+📌 ManyToOne bên Nhiều → @JoinColumn

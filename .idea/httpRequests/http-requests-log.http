@@ -1,0 +1,869 @@
+DELETE http://localhost:8080/api/v3/delete
+Content-Type: application/json
+Content-Length: 86
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 1,
+  "title": "",
+  "description": "",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-24T142501.404.json
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 125
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "1",
+  "lastName": "3453453",
+  "email": "lksadfjgd@gmail.com",
+  "age": 122,
+  "courses": null
+}
+
+<> 2025-07-21T212002.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 133
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "005654000",
+  "lastName": "3453453",
+  "email": "lksadfjgd@gmail.com",
+  "age": 122,
+  "courses": null
+}
+
+<> 2025-07-21T211955.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 133
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "005654000",
+  "lastName": "3453453",
+  "email": "lksadfjgd@gmail.com",
+  "age": 122,
+  "courses": null
+}
+
+<> 2025-07-21T210451.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 133
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "005654000",
+  "lastName": "3453453",
+  "email": "lksadfjgd@gmail.com",
+  "age": 122,
+  "courses": null
+}
+
+<> 2025-07-21T210449.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 131
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "005654000",
+  "lastName": "3453453",
+  "email": "lksadfjgd@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T210421.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 131
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "005654000",
+  "lastName": "3453453",
+  "email": "lksadfjgd@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T210419.404.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T210344.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T202512.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T202511.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T202510.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T202509.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T202507.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T202506.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T202435.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T202434.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T202427.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T202425.200.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 127
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "00000",
+  "lastName": "phuomng",
+  "email": "t9879ahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T202340.404.txt
+
+###
+
+POST http://localhost:8081/api/v1/all/author-end-course
+Content-Type: application/json
+Content-Length: 125
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "firstName": "Tghảo",
+  "lastName": "phuomng",
+  "email": "tahgo@gmail.com",
+  "age": 122,
+  "courses": []
+}
+
+<> 2025-07-21T195825.404.txt
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 86
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "",
+  "description": "",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T105657.200.json
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 86
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "",
+  "description": "",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T105318.200.txt
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 86
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 1,
+  "title": "",
+  "description": "",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T105312.500.txt
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 86
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "",
+  "description": "",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T105240.200.txt
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 86
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "",
+  "description": "",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T105050.200.txt
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 89
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "âs",
+  "description": "",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T104827.500.json
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 86
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "",
+  "description": "",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T104815.500.json
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 86
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "",
+  "description": "",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T104813.500.json
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 86
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "",
+  "description": "",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T104620.500.json
+
+###
+
+GET http://localhost:8081/api/v1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-21T104530.200.json
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 86
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "",
+  "description": "",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T104524.500.json
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 100
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "TRUONG N",
+  "description": "LLLLLL",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T104346.500.json
+
+###
+
+GET http://localhost:8081/api/v1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-21T104306.200.json
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 94
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "hubt",
+  "description": "hubt",
+  "authorId": 0,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T104253.500.json
+
+###
+
+GET http://localhost:8081/api/v1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-21T104201.200.json
+
+###
+
+PATCH http://localhost:8081/api/v3
+Content-Type: application/json
+Content-Length: 96
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "title": "truong",
+  "description": "huts",
+  "authorId": 1,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T104141.200.json
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 108
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 2,
+  "title": "1212121",
+  "description": "nullllllll",
+  "authorId": null,
+  "authorDTOS": null
+}
+
+<> 2025-07-21T104105.500.json
+
+###
+
+GET http://localhost:8081/api/v1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-21T104007.200.json
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 1,
+  "title": "kakakaak",
+  "description": "kakakakakak",
+  "authorId": 1,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T103943.500.json
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 105
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 1,
+  "title": "kakakaak",
+  "description": "kakakakakak",
+  "authorId": 1,
+  "authorDTOS": []
+}
+
+<> 2025-07-21T103803.500.json
+
+###
+
+PUT http://localhost:8081/api/v3/update
+Content-Type: application/json
+Content-Length: 107
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 1,
+  "title": "kakakaak",
+  "description": "kakakakakak",
+  "authorId": 1,
+  "authorDTOS": null
+}
+
+<> 2025-07-21T103753.500.json
+
+###
+
+PATCH http://localhost:8081/api/v3
+Content-Type: application/json
+Content-Length: 90
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id":1,
+  "title": "1231",
+  "description": "1",
+  "authorId": 1,
+  "authorDTOS": []
+}
+
+<> 2025-07-16T233620.200.json
+
+###
+
+PATCH http://localhost:8081/api/v3
+Content-Type: application/json
+Content-Length: 93
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "title": "313123",
+  "description": "1",
+  "authorId": 1,
+  "authorDTOS": []
+}
+
+<> 2025-07-16T233551.200.json
+
+###
+
+PATCH http://localhost:8081/api/v3
+Content-Type: application/json
+Content-Length: 102
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "title": "313123",
+  "description": "1231313212",
+  "authorId": 1,
+  "authorDTOS": []
+}
+
+<> 2025-07-16T231941.200.json
+
+###
+
+GET http://localhost:8081/api/v1
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-15T182836.200.json
+
+###
+
+GET http://localhost:8081/api/v2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-15T182821.200.json
+
+###
+
+GET http://localhost:8080/api/v2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-14T203121.404.json
+
+###
+
+GET http://localhost:8080/api/v2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-14T203022.404.json
+
+###
+
+GET http://localhost:8080/api/v1/getall
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-10T125935.200.json
+
+###
+
+GET http://localhost:8080/api/v1/getall
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2025.1.3
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+<> 2025-07-10T125608.200.json
+
+###
+
